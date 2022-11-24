@@ -34,7 +34,7 @@
         "solhint": "^2.3.0",
         "solidity-coverage": "^0.6.7",
         "standard": "^14.0.2",
-        "truffle": "^5.0.41",
+        "truffle": "^5.6.7",
         "truffle-assertions": "^0.9.1",
         "web3": "^1.2.0"
     },
